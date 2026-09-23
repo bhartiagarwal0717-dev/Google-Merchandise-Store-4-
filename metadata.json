@@ -1,0 +1,6 @@
+{
+  "name": "Google Merch Store - UX Redesign",
+  "description": "An improved e-commerce experience inspired by Google Merchandise Store data insights, featuring high-speed mobile UX, friction-free checkout, and smart discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
